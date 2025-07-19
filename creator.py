@@ -14,6 +14,11 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * TTEncrypt
 * Xlog
 
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
+
+
 ## tiktok API
 1. login to the user by email and username
 2. register new device
